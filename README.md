@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyajit734/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Satyajit734/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyajit734/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Satyajit734/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Satyajit734/LeetCode-Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Satyajit734/LeetCode-Problem-Solving/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Satyajit734/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
